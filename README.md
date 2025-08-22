@@ -1,19 +1,32 @@
-# Hi, I'm [Mohamed Abdalla] 👋  
+# Hi, I'm [Your Name] 👋  
 
-🚀 Software Engineer | 💻 Full-Stack Developer | ☁️ Cloud & DevOps Enthusiast  
+🚀 Software Engineer | 📱 Mobile & Web Developer | ☁️ Cloud & DevOps Enthusiast  
 
-I’m passionate about building scalable applications, designing clean architectures, and contributing to open-source projects.  
+I specialize in building scalable applications with modern frameworks and cloud infrastructure.  
+Passionate about solving real-world problems through clean architecture, automation, and collaboration.  
 
 ---
 
-## 🔧 Tech Stack  
+## ⚡ Tech Stack  
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C++  
-- **Web:** React, Next.js, Node.js, Express, Django  
-- **Mobile:** React Native, Flutter  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
-- **Other Tools:** Git, Linux, VS Code, Figma  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+</p>  
 
 ---
 
@@ -24,16 +37,7 @@ I’m passionate about building scalable applications, designing clean architect
 
 ---
 
-## 📂 Featured Projects  
-
-- [**Project 1**](https://github.com/YOUR_USERNAME/project1) – Short description of what it does.  
-- [**Project 2**](https://github.com/YOUR_USERNAME/project2) – Highlight stack & purpose.  
-- [**Project 3**](https://github.com/YOUR_USERNAME/project3) – Mention real-world impact.  
-
----
-
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
-- 🌍 [Portfolio](https://your-portfolio.com)  
 - 📧 your.email@example.com  
