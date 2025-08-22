@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Mohamed 👋  
 
 🚀 Software Engineer I sharing my learning journey in tech   
 
